@@ -1,0 +1,380 @@
+body{
+    background-image: url(bg-light.png);
+    background-size: cover;
+}
+
+
+
+
+@media (min-width: 280px) { 
+    
+    #heading{
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #num1{
+
+        margin-left: 11%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #num2{
+        margin-top: 5%;
+        margin-left: 11%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #btn{
+        margin-top: 5%;
+        margin-left: 33%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 16px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 2%;
+    }
+}
+
+
+
+
+
+@media (min-width: 330px) { 
+    
+    #heading{
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #num1{
+
+        margin-left: 20%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #num2{
+        margin-top: 5%;
+        margin-left: 20%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #btn{
+        margin-top: 5%;
+        margin-left: 33%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 24px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 2%;
+    }
+}
+
+@media (min-width: 415px) { 
+    
+    #heading{
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #num1{
+
+        margin-left: 20%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #num2{
+        margin-top: 5%;
+        margin-left: 20%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #btn{
+        margin-top: 5%;
+        margin-left: 30%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 24px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 2%;
+    }
+}
+
+@media (min-width: 489px) { 
+    
+    #heading{
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #num1{
+
+        margin-left: 22%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #num2{
+        margin-top: 5%;
+        margin-left: 22%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    #btn{
+        margin-top: 5%;
+        margin-left: 30%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 24px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 2%;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+    
+        #heading{
+            text-align: center;
+            padding: 24px;
+            margin-top: 20px;
+            font-size: 54px;
+        }
+
+        #num1{
+
+            margin-left: 22%;
+            text-align: center;
+            border-radius: 10px;
+            line-height: 50px;
+            font-size: 30px;
+        }
+
+        #num2{
+            margin-top: 5%;
+            margin-left: 22%;
+            text-align: center;
+            border-radius: 10px;
+            line-height: 50px;
+            font-size: 30px;
+        }
+
+        #btn{
+            margin-top: 5%;
+            margin-left: 35%;
+            text-align: center;
+            border-radius: 10px;
+            width: fit-content;
+            font-size: 30px;
+        }
+        #demo{
+            font-size: 30px;
+        }
+
+        #nb{
+            text-align: center;
+            color: rgb(255, 0, 0);
+            margin-top: 1%;
+        }
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+    
+    #heading{
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 54px;
+    }
+
+    #num1{
+
+        margin-left: 28%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 30px;
+    }
+
+    #num2{
+        margin-top: 5%;
+        margin-left: 28%;
+        text-align: center;
+        border-radius: 10px;
+        line-height: 50px;
+        font-size: 30px;
+    }
+
+    #btn{
+        margin-top: 5%;
+        margin-left: 38%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 30px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 1%;
+    }
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+    #heading{
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 54px;
+    }
+
+    #num1 {
+        margin-left: 32%;
+        text-align: center;
+        border-radius: 22px;
+        line-height: 74px;
+        font-size: 32px;
+    }
+
+    #num2{
+        margin-left: 32%;
+        text-align: center;
+        border-radius: 22px;
+        line-height: 74px;
+        font-size: 32px;
+    }
+
+    #btn{
+        margin-top: 5%;
+        margin-left: 41%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 30px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 1%;
+    }
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+   
+    #heading {
+        text-align: center;
+        padding: 24px;
+        margin-top: 20px;
+        font-size: 58px;
+        margin-right: 50px;
+    }
+
+    #num1 {
+        margin-left: 35%;
+        text-align: center;
+        border-radius: 22px;
+        line-height: 74px;
+        font-size: 32px;
+    }
+
+    #num2{
+        margin-left: 35%;
+        text-align: center;
+        border-radius: 22px;
+        line-height: 74px;
+        font-size: 32px;
+    }
+
+    #btn {
+        margin-top: 3%;
+        margin-left: 40%;
+        text-align: center;
+        border-radius: 10px;
+        width: fit-content;
+        font-size: 34px;
+    }
+    #demo{
+        font-size: 30px;
+    }
+    #nb{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        margin-top: 1%;
+    }
+
+
+
+ }
